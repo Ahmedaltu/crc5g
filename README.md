@@ -6,7 +6,6 @@ Follows the V0 → V1 → V2 optimisation progression from CS-E4580 Programming 
 ## Background
 
 CRC-24 is used in 5G NR polar codes for error detection (3GPP TS 38.212 Section 5.1).  
-Generator polynomial: `g(x) = x^24 + x^23 + x^6 + x^5 + x + 1`
 
 ## Project structure
 
